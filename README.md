@@ -58,3 +58,9 @@ Feel free to fork this repository and enhance the project by adding new features
 ## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
+
+Output
+
+![Screenshot 2025-03-20 183503](https://github.com/user-attachments/assets/db00b301-5c94-41ba-a83f-b98d7e78b6ac)
+
+
